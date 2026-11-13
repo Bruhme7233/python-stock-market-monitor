@@ -13,3 +13,7 @@ market_history.csv
 # Temporary files
 *.tmp
 .DS_Store
+
+# Private token backup
+Github_Tokensafe
+Github_Tokensafe.gpg
