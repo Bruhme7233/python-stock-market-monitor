@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+
+# Generated market data
+live_market_data.csv
+market_history.csv
+
+# Temporary files
+*.tmp
+.DS_Store
